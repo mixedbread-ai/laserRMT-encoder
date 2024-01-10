@@ -116,3 +116,5 @@ urllib3
 xxhash==3.4.1
 yarl==1.9.2
 zstandard==0.22.0
+mteb
+sentence_transformers
